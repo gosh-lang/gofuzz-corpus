@@ -1,0 +1,3 @@
+# Treat all files as vendored to avoid language detection, but still see them in diffs.
+# https://github.com/github/linguist#overrides
+*	linguist-vendored=true
